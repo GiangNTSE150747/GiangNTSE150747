@@ -1,16 +1,56 @@
-### Hi there 👋
+# Hi, I'm Truong Giang
+> As a junior student majoring in Software Engineering, I am confident to learn on my own. So I am looking for an opportunity to apply for the position of Java Developer Internship. My short term goal is to improve my skills and earn experience. form professional environment My long term goal is to become a professional software engineer, specifically to be a Java Master
 
-<!--
-**GiangNTSE150747/GiangNTSE150747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Most language used
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiangNTSE150747&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>No suprise for Java :v: </small>
+  <br />
+  <br />
+</div>
 
-Here are some ideas to get you started:
+# :phone: Contact information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:iphone: +84 977264752 <br>
+:house: Di An, Binh Duong <br>
+:envelope: GiangNTSE150747@fpt.du.vn <br>
+:octocat: [GiangNTSE150747](https://github.com/GiangNTSE150747)
+
+# Skills
+
+**Back-end**
+
+<code><img height="30" src="/images/Java.png"></code>
+<code><img height="30" src="/images/CSharp.jpg"></code>
+
+**Front-end**
+
+<code><img height="30" src="/images/Html.jpg"></code>
+<code><img height="30" src="/images/Css.jpg"></code>
+<code><img height="30" src="/images/JS.png"></code>
+
+**Database**
+
+<code><img height="30" src="/images/mssql.png"></code>
+<code><img height="30" src="/images/mysql.png"></code>
+
+**Framework**
+
+<code><img height="30" src="/images/BS.png"></code>
+<code><img height="30" src="/images/Spring.png"></code>
+<code><img height="30" src="/images/hibernate.jpg"></code>
+
+# Education
+
+
+# 🔭Actions
+  <div align="center" style="width: 50%;">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=GiangNTSE150747"/>
+</div>
+  
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=GiangNTSE150747&theme=github"/>
+</div>
+
+
