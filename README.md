@@ -10,13 +10,6 @@
   <br />
 </div>
 
-# :phone: Contact information
-
-:iphone: +84 977264752 <br>
-:house: Di An, Binh Duong <br>
-:envelope: GiangNTSE150747@fpt.du.vn <br>
-:octocat: [GiangNTSE150747](https://github.com/GiangNTSE150747)
-
 # Skills
 
 **Back-end**
