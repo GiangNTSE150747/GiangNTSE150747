@@ -1,5 +1,5 @@
 # Hi, I'm Truong Giang
-> As a junior student majoring in Software Engineering, I am confident to learn on my own. So I am looking for an opportunity to apply for the position of Java Developer Internship. My short term goal is to improve my skills and earn experience. form professional environment My long term goal is to become a professional software engineer, specifically to be a Java Master
+> What should I write here :v ???
 
 >Most language used
 <div align="center">
