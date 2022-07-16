@@ -35,7 +35,9 @@
 <code><img height="30" src="/images/hibernate.jpg"></code>
 
 # Education
-
+FPT university
+> Major: Software engineering
+> GPA: 9.1/10
 
 # 🔭Actions
   <div align="center" style="width: 50%;">
